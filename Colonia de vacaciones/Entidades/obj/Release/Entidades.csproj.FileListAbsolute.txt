@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\bin\Release\Entidades.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\bin\Release\Entidades.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\bin\Release\Excepciones.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\bin\Release\Stock.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\bin\Release\Excepciones.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\bin\Release\Stock.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\obj\Release\Entidades.csproj.CopyComplete
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\obj\Release\Entidades.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Entidades\obj\Release\Entidades.pdb

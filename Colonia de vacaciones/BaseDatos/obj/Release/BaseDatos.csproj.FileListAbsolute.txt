@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\bin\Release\BaseDatos.dll.config
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\bin\Release\BaseDatos.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\bin\Release\BaseDatos.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\bin\Release\Entidades.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\bin\Release\Excepciones.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\bin\Release\Stock.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\bin\Release\Entidades.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\bin\Release\Excepciones.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\bin\Release\Stock.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\obj\Release\BaseDatos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\obj\Release\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\obj\Release\BaseDatos.csproj.CopyComplete
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\obj\Release\BaseDatos.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\BaseDatos\obj\Release\BaseDatos.pdb

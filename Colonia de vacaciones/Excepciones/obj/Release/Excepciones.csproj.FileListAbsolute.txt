@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Excepciones\bin\Release\Excepciones.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Excepciones\bin\Release\Excepciones.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Excepciones\obj\Release\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Excepciones\obj\Release\Excepciones.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Excepciones\obj\Release\Excepciones.pdb

@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Validaciones\bin\Release\Validaciones.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Validaciones\bin\Release\Validaciones.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Validaciones\bin\Release\Excepciones.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Validaciones\bin\Release\Excepciones.pdb
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Validaciones\obj\Release\Validaciones.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Validaciones\obj\Release\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Validaciones\obj\Release\Validaciones.csproj.CopyComplete
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Validaciones\obj\Release\Validaciones.dll
+C:\Users\pc\Desktop\proyectos\Colonia de vacaciones\Validaciones\obj\Release\Validaciones.pdb
